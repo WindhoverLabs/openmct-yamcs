@@ -5,9 +5,9 @@ const config = {
     yamcsHistoricalEndpoint: "http://localhost:9000/yamcs-proxy/",
     yamcsWebsocketEndpoint: "ws://localhost:9000/yamcs-proxy-ws/",
     yamcsUserEndpoint: "http://localhost:9000/yamcs-proxy/api/user/",
-    yamcsInstance: "myproject",
+    yamcsInstance: "fsw",
     yamcsProcessor: "realtime",
-    yamcsFolder: "myproject",
+    yamcsFolder: "fsw",
     throttleRate: 1000,
     maxBatchSize: 20
 };
